@@ -15,8 +15,11 @@ Cross-Platform Compatibility: Accessible via any device with a web browser.
 # Technology Stack
 
 Frontend: HTML5, CSS3, JavaScript
+
 Backend: Python, FastAPI
+
 Machine Learning Frameworks: Tensorflow, Keras
+
 Deep Learning Model: CNN
 
 # Setup and Installation
