@@ -56,5 +56,5 @@ Click the "Predict" button to receive the classification result.
 The result will display the disease category along with confidence levels.
 
 # Landing Page
-![Image Description](https://github.com/Coolcoder009/Deep-Learning-Projects/blob/main/Potatoe_Disease_Classifier(Full%20Stack)/Assets/Screenshot%202024-04-05%20173239.jpg?raw=true)
+![Image Description](https://github.com/ajafarsadiq2002/Deep-Learning/blob/acc607d6d667cd2b86e81ea58c0e10b5bb723938/PlantDefend-Potato%20Disease%20Classifier/Landing%20Page.jpeg)
 # Prediction Page
